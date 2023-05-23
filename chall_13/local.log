@@ -1,0 +1,142 @@
+================================================================================
+= Started at 2023-05-23T17:00:46                                               =
+= sys.argv = [                                                                 =
+=   './sol.py',                                                                =
+= ]                                                                            =
+================================================================================
+2023-05-23T17:00:46:INFO:pwnlib.tubes.process.process.140492423357216:Starting local process '/tmp/tmpbmprj6v8'
+2023-05-23T17:00:46:INFO:pwnlib.tubes.process.process.140492423357216:Starting local process '/tmp/tmpbmprj6v8': pid 6005
+2023-05-23T17:00:46:INFO:pwnlib.tubes.process.process.140492423357216:Receiving all data
+2023-05-23T17:00:46:INFO:pwnlib.tubes.process.process.140492423357216:Receiving all data: 0B
+2023-05-23T17:00:46:INFO:pwnlib.tubes.process.process.140492423357216:Process '/tmp/tmpbmprj6v8' stopped with exit code 0 (pid 6005)
+2023-05-23T17:00:46:INFO:pwnlib.tubes.process.process.140492423357216:Receiving all data: 1.78KB
+2023-05-23T17:00:46:INFO:pwnlib.tubes.process.process.140492423357216:Receiving all data: Done (1.78KB)
+2023-05-23T17:00:47:INFO:pwnlib.elf.elf:'/usr/lib32/libc.so.6'
+Arch:     i386-32-little
+RELRO:    [33mPartial RELRO[m
+Stack:    [32mCanary found[m
+NX:       [32mNX enabled[m
+PIE:      [32mPIE enabled[m
+================================================================================
+= Started at 2023-05-23T17:00:47                                               =
+= sys.argv = [                                                                 =
+=   './sol.py',                                                                =
+= ]                                                                            =
+================================================================================
+2023-05-23T17:00:47:INFO:pwnlib.tubes.process.process.140492423363888:Starting local process '/mnt/g/GitLab/pwns/chall_13/chall_13'
+2023-05-23T17:00:47:INFO:pwnlib.tubes.process.process.140492423363888:Starting local process '/mnt/g/GitLab/pwns/chall_13/chall_13': pid 6007
+================================================================================
+= Started at 2023-05-23T17:01:03                                               =
+= sys.argv = [                                                                 =
+=   './sol.py',                                                                =
+= ]                                                                            =
+================================================================================
+2023-05-23T17:01:03:INFO:pwnlib.tubes.process.process.140492423363888:Stopped process '/mnt/g/GitLab/pwns/chall_13/chall_13' (pid 6007)
+================================================================================
+= Started at 2023-05-23T17:01:03                                               =
+= sys.argv = [                                                                 =
+=   './sol.py',                                                                =
+= ]                                                                            =
+================================================================================
+================================================================================
+= Started at 2023-05-23T17:01:47                                               =
+= sys.argv = [                                                                 =
+=   './sol.py',                                                                =
+= ]                                                                            =
+================================================================================
+2023-05-23T17:01:47:INFO:pwnlib.tubes.process.process.139951337679712:Starting local process '/tmp/tmpuqlz_u2n'
+2023-05-23T17:01:47:INFO:pwnlib.tubes.process.process.139951337679712:Starting local process '/tmp/tmpuqlz_u2n': pid 6046
+2023-05-23T17:01:47:INFO:pwnlib.tubes.process.process.139951337679712:Receiving all data
+2023-05-23T17:01:47:INFO:pwnlib.tubes.process.process.139951337679712:Receiving all data: 0B
+2023-05-23T17:01:47:INFO:pwnlib.tubes.process.process.139951337679712:Process '/tmp/tmpuqlz_u2n' stopped with exit code 0 (pid 6046)
+2023-05-23T17:01:47:INFO:pwnlib.tubes.process.process.139951337679712:Receiving all data: 1.78KB
+2023-05-23T17:01:47:INFO:pwnlib.tubes.process.process.139951337679712:Receiving all data: Done (1.78KB)
+2023-05-23T17:01:47:INFO:pwnlib.elf.elf:'/usr/lib32/libc.so.6'
+Arch:     i386-32-little
+RELRO:    [33mPartial RELRO[m
+Stack:    [32mCanary found[m
+NX:       [32mNX enabled[m
+PIE:      [32mPIE enabled[m
+================================================================================
+= Started at 2023-05-23T17:01:47                                               =
+= sys.argv = [                                                                 =
+=   './sol.py',                                                                =
+= ]                                                                            =
+================================================================================
+2023-05-23T17:01:47:INFO:pwnlib.tubes.process.process.139951337831632:Starting local process '/mnt/g/GitLab/pwns/chall_13/chall_13'
+2023-05-23T17:01:47:INFO:pwnlib.tubes.process.process.139951337831632:Starting local process '/mnt/g/GitLab/pwns/chall_13/chall_13': pid 6048
+2023-05-23T17:01:47:INFO:pwnlib.exploit:puts: 0x74737953
+2023-05-23T17:01:47:INFO:pwnlib.exploit:libc.address: 0x746c5123
+2023-05-23T17:01:47:INFO:pwnlib.tubes.process.process.139951337831632:Switching to interactive mode
+================================================================================
+= Started at 2023-05-23T17:01:47                                               =
+= sys.argv = [                                                                 =
+=   './sol.py',                                                                =
+= ]                                                                            =
+================================================================================
+2023-05-23T17:01:47:INFO:pwnlib.tubes.process.process.139951337831632:Got EOF while reading in interactive
+2023-05-23T17:01:50:INFO:pwnlib.tubes.process.process.139951337831632:Process '/mnt/g/GitLab/pwns/chall_13/chall_13' stopped with exit code -11 (SIGSEGV) (pid 6048)
+2023-05-23T17:01:50:INFO:pwnlib.tubes.process.process.139951337831632:Got EOF while sending in interactive
+================================================================================
+= Started at 2023-05-23T17:01:50                                               =
+= sys.argv = [                                                                 =
+=   './sol.py',                                                                =
+= ]                                                                            =
+================================================================================
+================================================================================
+= Started at 2023-05-23T17:01:50                                               =
+= sys.argv = [                                                                 =
+=   './sol.py',                                                                =
+= ]                                                                            =
+================================================================================
+================================================================================
+= Started at 2023-05-23T17:08:06                                               =
+= sys.argv = [                                                                 =
+=   './sol.py',                                                                =
+= ]                                                                            =
+================================================================================
+2023-05-23T17:08:06:INFO:pwnlib.tubes.process.process.140450108686976:Starting local process '/tmp/tmpwqo4o72k'
+2023-05-23T17:08:06:INFO:pwnlib.tubes.process.process.140450108686976:Starting local process '/tmp/tmpwqo4o72k': pid 6092
+2023-05-23T17:08:06:INFO:pwnlib.tubes.process.process.140450108686976:Receiving all data
+2023-05-23T17:08:06:INFO:pwnlib.tubes.process.process.140450108686976:Receiving all data: 0B
+2023-05-23T17:08:06:INFO:pwnlib.tubes.process.process.140450108686976:Process '/tmp/tmpwqo4o72k' stopped with exit code 0 (pid 6092)
+2023-05-23T17:08:06:INFO:pwnlib.tubes.process.process.140450108686976:Receiving all data: 1.78KB
+2023-05-23T17:08:06:INFO:pwnlib.tubes.process.process.140450108686976:Receiving all data: Done (1.78KB)
+2023-05-23T17:08:06:INFO:pwnlib.elf.elf:'/usr/lib32/libc.so.6'
+Arch:     i386-32-little
+RELRO:    [33mPartial RELRO[m
+Stack:    [32mCanary found[m
+NX:       [32mNX enabled[m
+PIE:      [32mPIE enabled[m
+================================================================================
+= Started at 2023-05-23T17:08:06                                               =
+= sys.argv = [                                                                 =
+=   './sol.py',                                                                =
+= ]                                                                            =
+================================================================================
+2023-05-23T17:08:06:INFO:pwnlib.tubes.process.process.140450108800256:Starting local process '/mnt/g/GitLab/pwns/chall_13/chall_13'
+2023-05-23T17:08:06:INFO:pwnlib.tubes.process.process.140450108800256:Starting local process '/mnt/g/GitLab/pwns/chall_13/chall_13': pid 6094
+2023-05-23T17:08:06:INFO:pwnlib.exploit:puts: 0xf7def830
+2023-05-23T17:08:06:INFO:pwnlib.exploit:libc.address: 0xf7d7d000
+2023-05-23T17:08:06:INFO:pwnlib.tubes.process.process.140450108800256:Switching to interactive mode
+================================================================================
+= Started at 2023-05-23T17:08:06                                               =
+= sys.argv = [                                                                 =
+=   './sol.py',                                                                =
+= ]                                                                            =
+================================================================================
+2023-05-23T17:08:11:INFO:pwnlib.tubes.process.process.140450108800256:Got EOF while reading in interactive
+2023-05-23T17:08:11:INFO:pwnlib.tubes.process.process.140450108800256:Process '/mnt/g/GitLab/pwns/chall_13/chall_13' stopped with exit code -11 (SIGSEGV) (pid 6094)
+2023-05-23T17:08:11:INFO:pwnlib.tubes.process.process.140450108800256:Got EOF while sending in interactive
+================================================================================
+= Started at 2023-05-23T17:08:11                                               =
+= sys.argv = [                                                                 =
+=   './sol.py',                                                                =
+= ]                                                                            =
+================================================================================
+================================================================================
+= Started at 2023-05-23T17:08:11                                               =
+= sys.argv = [                                                                 =
+=   './sol.py',                                                                =
+= ]                                                                            =
+================================================================================
